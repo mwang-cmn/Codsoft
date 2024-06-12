@@ -46,4 +46,6 @@ Address department-specific satisfaction issues:
    - For male patients, improve satisfaction in the renal department (average score of 4.5). Investigate reasons for dissatisfaction and implement changes.
    - For female patients, address concerns in the Physiotherapy department (average score of 5.29). Enhance communication, comfort, and personalized care.
 
-[Preview of Dashboard](https://github.com/mwang-cmn/Emergency-Room-Hospital-Dashboard/blob/main/snap.PNG)
+[Preview of Dashboard](![snap](https://github.com/mwang-cmn/Emergency-Room-Hospital-Dashboard/assets/73072045/a03117bf-324a-4578-a482-48fe9f42beaa))
+
+
